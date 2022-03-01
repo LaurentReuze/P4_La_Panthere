@@ -654,6 +654,12 @@ a {
     color: black!important;
 }
 
+q{
+    font-size: 22px;
+    font-style: italic;
+    color: #000000;
+}
+
 .container {
     max-width: 1000px;
 }
