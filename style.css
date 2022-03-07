@@ -449,6 +449,10 @@ nav .caret {
     margin: 0 5px 5px 0;
 }
 
+[role="button"]:focus {
+    outline: none;
+  }
+
 .btn.pull-right {
     margin: 0 0 5px 5px;
 }
@@ -837,7 +841,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
